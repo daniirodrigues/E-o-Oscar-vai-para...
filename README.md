@@ -1,6 +1,6 @@
 # Oscar - Exercícios MongoDB Respostas
 
-Nome do aluno: **Miguel Bueno**
+Nome do aluno: **Daniel Rodrigues da Silva**
 
 ## Avaliação
 
